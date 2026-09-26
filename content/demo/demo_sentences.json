@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "name": "Demo utterances (Hindi)",
+    "note": "The fixed set of classroom utterances used across the demo, the tests and the latency measurements. Keep the wording stable - the measured numbers in DEMO.md refer to exactly these lines."
+  },
+  "sentences": [
+    {
+      "id": "greeting",
+      "hi": "नमस्ते बच्चों।",
+      "latin": "namaste bachchon.",
+      "category": "greetings",
+      "purpose": "opening a class"
+    },
+    {
+      "id": "topic-intro",
+      "hi": "आज हम जानवरों के नाम सीखेंगे।",
+      "latin": "aaj ham jaanvaron ke naam seekhenge.",
+      "category": "classroom",
+      "purpose": "topic introduction - the flagship demo utterance"
+    },
+    {
+      "id": "cow-milk",
+      "hi": "गाय हमें दूध देती है।",
+      "latin": "gaay hamein doodh deti hai.",
+      "category": "animals",
+      "purpose": "vocabulary sentence"
+    },
+    {
+      "id": "dog-guard",
+      "hi": "कुत्ता हमारी रखवाली करता है।",
+      "latin": "kutta hamaari rakhwaali karta hai.",
+      "category": "animals",
+      "purpose": "vocabulary sentence"
+    },
+    {
+      "id": "cat-milk",
+      "hi": "बिल्ली दूध पीती है।",
+      "latin": "billi doodh peeti hai.",
+      "category": "animals",
+      "purpose": "vocabulary sentence"
+    },
+    {
+      "id": "call-and-repeat",
+      "hi": "चलो, अब मिलकर जानवरों के नाम बोलते हैं।",
+      "latin": "chalo, ab milkar jaanvaron ke naam bolte hain.",
+      "category": "classroom",
+      "purpose": "closing activity"
+    },
+    {
+      "id": "mesh-homework",
+      "hi": "कल गणित की कॉपी साथ लाईये।",
+      "latin": "kal ganit ki kaupi saath laaiye.",
+      "category": "mesh",
+      "purpose": "the offline-mesh demo message (homework reminder)"
+    }
+  ]
+}

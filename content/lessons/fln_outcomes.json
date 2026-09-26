@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "name": "NIPUN Bharat FLN learning outcomes (representative subset)",
+    "note": "Reworded, grade-appropriate outcomes aligned to the NIPUN Bharat foundational literacy & numeracy framework for this proof of concept. A representative subset assembled for the demo, not an official copy of the Lakshya documents.",
+    "subjects": [
+      "Foundational Literacy",
+      "Foundational Numeracy"
+    ],
+    "grades": [
+      "1",
+      "2",
+      "3"
+    ],
+    "topics": [
+      "Animals",
+      "Colours",
+      "Numbers 1-10",
+      "Family",
+      "Fruits and Vegetables",
+      "Body Parts",
+      "Classroom Objects"
+    ]
+  },
+  "outcomes": [
+    {
+      "id": "L1.1",
+      "grade": "1",
+      "subject": "Foundational Literacy",
+      "text": "Student identifies and names common animals, objects and people in the surroundings.",
+      "topics": [
+        "Animals",
+        "Family",
+        "Classroom Objects"
+      ]
+    },
+    {
+      "id": "L1.2",
+      "grade": "1",
+      "subject": "Foundational Literacy",
+      "text": "Student recognizes letters and reads simple two-letter and three-letter words aloud.",
+      "topics": [
+        "Animals",
+        "Colours"
+      ]
+    },
+    {
+      "id": "L1.3",
+      "grade": "1",
+      "subject": "Foundational Literacy",
+      "text": "Student listens to a short story and answers simple questions about it.",
+      "topics": [
+        "Animals",
+        "Family"
+      ]
+    },
+    {
+      "id": "N1.1",
+      "grade": "1",
+      "subject": "Foundational Numeracy",
+      "text": "Student counts orally from 1 to 10 using concrete objects.",
+      "topics": [
+        "Numbers 1-10"
+      ]
+    },
+    {
+      "id": "N1.2",
+      "grade": "1",
+      "subject": "Foundational Numeracy",
+      "text": "Student compares groups of objects using more, less and equal.",
+      "topics": [
+        "Numbers 1-10",
+        "Fruits and Vegetables"
+      ]
+    },
+    {
+      "id": "L2.1",
+      "grade": "2",
+      "subject": "Foundational Literacy",
+      "text": "Student reads short sentences aloud with understanding and matches them to pictures.",
+      "topics": [
+        "Animals",
+        "Colours",
+        "Body Parts"
+      ]
+    },
+    {
+      "id": "L2.2",
+      "grade": "2",
+      "subject": "Foundational Literacy",
+      "text": "Student identifies and names common animals and describes them in one line.",
+      "topics": [
+        "Animals"
+      ]
+    },
+    {
+      "id": "L2.3",
+      "grade": "2",
+      "subject": "Foundational Literacy",
+      "text": "Student writes two to three simple words from dictation.",
+      "topics": [
+        "Animals",
+        "Fruits and Vegetables"
+      ]
+    },
+    {
+      "id": "N2.1",
+      "grade": "2",
+      "subject": "Foundational Numeracy",
+      "text": "Student reads and writes numbers up to 50.",
+      "topics": [
+        "Numbers 1-10"
+      ]
+    },
+    {
+      "id": "N2.2",
+      "grade": "2",
+      "subject": "Foundational Numeracy",
+      "text": "Student adds and subtracts single-digit numbers using objects.",
+      "topics": [
+        "Numbers 1-10"
+      ]
+    },
+    {
+      "id": "L3.1",
+      "grade": "3",
+      "subject": "Foundational Literacy",
+      "text": "Student reads a grade-level paragraph fluently and answers who/what/where questions.",
+      "topics": [
+        "Animals",
+        "Family"
+      ]
+    },
+    {
+      "id": "L3.2",
+      "grade": "3",
+      "subject": "Foundational Literacy",
+      "text": "Student writes two to three connected sentences about a familiar topic.",
+      "topics": [
+        "Animals",
+        "Fruits and Vegetables"
+      ]
+    },
+    {
+      "id": "N3.1",
+      "grade": "3",
+      "subject": "Foundational Numeracy",
+      "text": "Student solves simple daily-life word problems involving addition.",
+      "topics": [
+        "Numbers 1-10"
+      ]
+    },
+    {
+      "id": "N3.2",
+      "grade": "3",
+      "subject": "Foundational Numeracy",
+      "text": "Student identifies simple shapes in the surroundings and counts their sides.",
+      "topics": [
+        "Classroom Objects"
+      ]
+    }
+  ]
+}
