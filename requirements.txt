@@ -1,0 +1,28 @@
+# Core service
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Translation — CTranslate2 running NLLB-200-distilled-600M in int8 on CPU
+ctranslate2>=4.5
+sentencepiece>=0.2.0
+huggingface_hub
+
+# ASR — vosk small Hindi is the fast default; faster-whisper is the second engine.
+# (faster-whisper resolves tokenizers 0.13.3, whose prebuilt wheels stop at
+# cp311 — that is why bootstrap.sh pins the venv to Python 3.11.)
+vosk
+faster-whisper
+
+# Worksheets / PDF generation (fully local). fpdf2 with the harfbuzz
+# shaping engine - Devanagari and Ol Chiki both need real text shaping.
+fpdf2>=2.8
+uharfbuzz
+
+# Real BLE mesh transport (optional at runtime; simulation needs nothing)
+bleak
+
+# HTTP client for the optional online fallback + tests
+httpx
+pytest
