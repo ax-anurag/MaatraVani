@@ -122,14 +122,6 @@ Target: < 3 s voice-to-voice. Observed numbers on the dev machine are in
 .venv/bin/python -m pytest tests/ -v
 ```
 
-The suite covers all CLAUDE.md acceptance categories: translation both
-ways, ASR, Santali TTS, full pipeline + latency, offline operation
-(sockets dead), lesson/worksheet/flashcard generation, mesh relay,
-duplicate rejection, TTL expiry, rate-limit enforcement, the HTTP API
-contract the frontend calls, and script integrity (no fake or corrupted
-Ol Chiki anywhere in the repo). Tests that need a missing model/binary
-**skip with the exact reason** — a skip never means "works".
-
 ## Project layout
 
 ```
